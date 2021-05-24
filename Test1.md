@@ -1,26 +1,28 @@
 
   # Test1
-  ![License](httms://img.shields.io/badge/MIT-red.svg)
+
+  ![License](https://img.shields.io/badge/MIT-red.svg)
+
   ## Description
 
-  This is a test of my markdown generator
+  This is a test for the markdown generator
   
   ## Table of Contents
 
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[License](#license)
-  *[Contributing](#contributing)
-  *[Tests](#tests)
-  *[Questions](#questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
   
-  1.Generate markdown with data 2. profit
+  This should generate correct markdown
 
   ## Usage
 
-  not applicable
+  This test has license details
   
   ## License
 
@@ -30,11 +32,11 @@
     
   ## Contributing
 
-  This is a test with a license involved
+  no thank you
 
   ## Tests
 
-  nope
+  Have a nice day
 
   ## Questions
   

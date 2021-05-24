@@ -1,38 +1,40 @@
 
   # Test2
+
   
+
   ## Description
 
-  This is another test of the markdown generator
+  This is a test for the markdown generator
   
   ## Table of Contents
 
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[License](#license)
-  *[Contributing](#contributing)
-  *[Tests](#tests)
-  *[Questions](#questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
   
-  1.Generate markdown 2.Profit
+  This should generate correct markdown
 
   ## Usage
 
-  not applicable
+  tu9s test does not have license details
   
   ## Contributing
 
-  this is a test without a license
+  no thank you
 
   ## Tests
 
-  nope
+  Have a nice day
 
   ## Questions
   
   [Aniruddha Bhattacharya's Github](https://github.com/anirud314/)
 
-  To contact Aniruddha Bhattacharya send a email to cba@gmail.com
+  To contact Aniruddha Bhattacharya send a email to If you didnt get it yet the email address is fake
 

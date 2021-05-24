@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
   let lBadge = '';
   if(license !== 'none') { // if license is not none
-    lBadge = `![License](httms://img.shields.io/badge/${license}-red.svg)` // creates badge
+    lBadge = `![License](https://img.shields.io/badge/${license}-red.svg)` // creates badge
   }
   return lBadge; // return out of function
 }
@@ -62,19 +62,21 @@ function generateMarkdown(data) {
   //returns full markdown based on data from inquirer prompt.
   return `
   # ${data.title}
+
   ${Badge}
+
   ## Description
 
   ${data.description}
   
   ## Table of Contents
 
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[License](#license)
-  *[Contributing](#contributing)
-  *[Tests](#tests)
-  *[Questions](#questions)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
   
