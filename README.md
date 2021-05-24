@@ -1,6 +1,6 @@
 # 09 Node.js: Professional README Generator
 
-# Link to github Repo: 
+# Link to github Repo: https://github.com/anirud314/markdownGenerator
 
 ## Screenshot demo 
 Here are 2 screenshot gifs to show you how the project works
